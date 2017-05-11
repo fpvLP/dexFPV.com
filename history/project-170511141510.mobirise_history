@@ -1,12 +1,12 @@
 {
   "settings": {
     "name": "dexFPV.com",
-    "currentPage": "Youtube.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
       "styling": {
-        "primaryColor": "#c0392b",
+        "primaryColor": "#8e44ad",
         "buttonsColor": "#000000",
         "secondaryColor": "#9b59b6",
         "successColor": "#2ecc71",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 31,
+    "uniqCompNum": 29,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -91,7 +91,10 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#8e44ad!important"
+              "color": "#b8312f!important"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
             }
           },
           "alias": "colorm/components",
@@ -142,9 +145,9 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "buttonAlign": "right",
+            "inverse": false,
             "showArrow": true,
-            "iconsColor": "#ffffff",
+            "imageSize": 50,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/05.jpg",
             "parallax": true,
@@ -189,7 +192,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@ADDONS_PATH@/colorm/components/_images/jumbotron.jpg",
             "bgColor": "#c0392b",
             "bgColorRadio": true,
             "overlay": true,
@@ -318,7 +321,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "src": "@ADDONS_PATH@/colorm/components/_images/image1.jpg",
               "width": 1400
             },
             "video": {
@@ -356,7 +359,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@ADDONS_PATH@/colorm/components/_images/jumbotron.jpg",
             "bgColor": "#c0392b",
             "bgColorRadio": true,
             "overlay": true,
@@ -439,17 +442,17 @@
           "_name": "menu",
           "_anchor": "menu-c",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#2c3e50",
             "fontSize": 0.875,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -490,7 +493,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@ADDONS_PATH@/colorm/components/_images/jumbotron.jpg",
             "bgColor": "#c0392b",
             "bgColorRadio": true,
             "overlay": true,
@@ -500,36 +503,57 @@
           "text": "Copyright (c) 2017 FPV Landing Pages."
         },
         {
+          "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "video2",
-          "_anchor": "video2-u",
+          "_name": "header10",
           "_params": {
-            "paddingTop": "6",
-            "paddingBottom": "2",
-            "bgColor": "#ecf0f1",
-            "showText": true
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showVideo": true,
+            "VideoUrl": "https://www.youtube.com/playlist?list=PLlKC8VCuAxc_r8dr-P6k_CYmIpKhE1S_u",
+            "showArrow": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/10.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2980b9",
+            "overlayOpacity": 0.9
           },
+          "title": "INTRO WITH VIDEO POPUP",
+          "text": "Full-screen intro with background image and video popup. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
           "media": {
             "image": {
-              "src": "file:///Users/msi-mac/Library/Application%20Support/Mobirise.com/Mobirise/projectData/image1.jpg",
-              "width": 1400
-            },
-            "video": {
               "active": true,
-              "class": "mbr-embedded-video",
-              "src": "https://www.youtube.com/playlist?list=PLlKC8VCuAxc_r8dr-P6k_CYmIpKhE1S_u",
-              "autoplay": false,
-              "loop": false
+              "src": "@PROJECT_PATH@/assets/images/play-button.svg"
+            },
+            "iconFont": {
+              "active": false,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
             }
           },
-          "text": "SUBSCRIBE",
-          "_customHTML": "<section class=\"mbr-section video2 mbr-section__container mbr-after-navbar\" style=\"background-color: rgb(236, 240, 241); padding-top: 120px; padding-bottom: 40px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <div class=\"mbr-figure\">\n                    <div><iframe class=\"mbr-embedded-video\" width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/videoseries?list=PLlKC8VCuAxc_r8dr-P6k_CYmIpKhE1S_u\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n\n           \n                    \n                    \n                    \n                    \n                    <div class=\"mbr-figure-caption\">\n                        <div class=\"container mbr-editable-content\" code-editable-id=\"30\">SUBSCRIBE</div>\n                    </div>\n\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "text2": "<label class=\"startPreset\" for=\"modal\">Watch Video</label>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header10 mbr-after-navbar\" style=\"background-image: url(@PROJECT_PATH@/assets/images/10.jpg);\">\n\n        <div class=\"mbr-overlay\" style=\"opacity: 0.9; background-color: rgb(41, 128, 185);\">    \n        </div>\n        <div class=\"mbr-table-cell\">\n            <div class=\"container\">\n                <div class=\"mbr-section row\">\n                    <div>\n                            <h1 class=\"mbr-section-title display-1 text-center startPreset mbr-editable-content\" code-editable-id=\"45\"></h1>\n\n                            <div class=\"mbr-section-text lead text-center startPreset\">\n                                <p class=\"mbr-editable-content\" code-editable-id=\"46\"></p>\n                            </div>\n            \n                \n                            <div class=\"mbr-figure intro-play-btn-figure\"><img src=\"@PROJECT_PATH@/assets/images/play-button.svg\"></div>\n    \n\n                            <a class=\"modalWindow-link\"><span class=\"intro-play-btn h-white mbr-editable-content\" code-editable-id=\"47\"><label class=\"startPreset\" for=\"modal\">Watch Video</label></span></a>\n\n                            <div class=\"mbr-section-btn text-center\"><a class=\"btn mbr-editable-button btn-danger\" href=\"https://www.youtube.com/dexfpv?sub_confirmation=1\" target=\"_blank\" code-editable-id=\"48\">Subscribe</a></div>\n\n                    </div>\n         \n\n                </div> \n            </div> \n        </div>\n        \n        <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\">\n            <a href=\"#custom-html-q\">\n                <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/arrowdown.png\">\n            </a>\n        </div>\n\n        <div class=\"modalWindow\" id=\"modalWindow\">\n            <div class=\"modalWindow-container\">                      \n                 <div class=\"modalWindow-video-container\">\n                     <div class=\"modalWindow-video\" href=\"hhttps://www.youtube.com/embed/videoseries?list=PLlKC8VCuAxc_r8dr-P6k_CYmIpKhE1S_u\">\n                         <iframe width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/videoseries?list=PLlKC8VCuAxc_r8dr-P6k_CYmIpKhE1S_u\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>\n                         \n\n                    </div>\n                    <a class=\"close\" role=\"button\" data-dismiss=\"modal\">\n                        <span aria-hidden=\"true\" class=\"closeModal\">×</span>\n                    </a>\n                 </div>\n            </div>\n        </div>       \n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "",
-          "_customTemplate": true
+          "_customCSS": ".display-1 {\n\tfont-weight: 700;\n\ttext-transform: uppercase;\n\tmargin-top: 40px;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "header10-r"
         }
       ]
     },
@@ -693,7 +717,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@ADDONS_PATH@/colorm/components/_images/jumbotron.jpg",
             "bgColor": "#c0392b",
             "bgColorRadio": true,
             "overlay": true,
