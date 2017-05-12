@@ -783,7 +783,7 @@ blockquote {
 }
 #menu-2 .link[aria-expanded="true"],
 #menu-2 .dropdown-item[aria-expanded="true"] {
-  color: #8e44ad!important;
+  color: #c0392b!important;
 }
 #header2-0 .mbr-section-title,
 #header2-0 .mbr-section-subtitle,
@@ -864,7 +864,7 @@ blockquote {
 }
 #menu-9 .link[aria-expanded="true"],
 #menu-9 .dropdown-item[aria-expanded="true"] {
-  color: #8e44ad!important;
+  color: #c0392b!important;
 }
 #footer2-b .mbr-section-text {
   color: #fff;
@@ -937,7 +937,7 @@ blockquote {
 }
 #menu-c .link[aria-expanded="true"],
 #menu-c .dropdown-item[aria-expanded="true"] {
-  color: #8e44ad!important;
+  color: #c0392b!important;
 }
 #footer2-e .mbr-section-text {
   color: #fff;
@@ -1010,15 +1010,7 @@ blockquote {
 }
 #menu-f .link[aria-expanded="true"],
 #menu-f .dropdown-item[aria-expanded="true"] {
-  color: #8e44ad!important;
-}
-#header2-g .mbr-section-title,
-#header2-g .mbr-section-subtitle,
-#header2-g .btn {
-  color: #fff;
-}
-#header2-g .mbr-section-title {
-  font-weight: 700;
+  color: #c0392b!important;
 }
 #footer2-h .mbr-section-text {
   color: #fff;
