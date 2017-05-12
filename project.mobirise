@@ -197,43 +197,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 FPV Landing Pages."
-        },
-        {
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_anchor": "header2-y",
-          "_params": {
-            "buttonAlign": "right",
-            "iconsColor": "#ffffff",
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/background-image-2000x1333-1.jpg",
-            "bgColor": "#8e44ad",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#d80394",
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true
-          },
-          "title": "DROP-DEAD EASY<br>WEBSITE<br>MAKER",
-          "text": "Cut down the development time with drag-and-drop website builder. Drop the blocks you like into your page, edit content inline and publish - no technical skills required.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"youtube.html\" data-toolbar=\"-mbrBtnMove,-mbrBtnColor\"><span class=\"fa fa-youtube-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"instagram.html\" data-toolbar=\"-mbrBtnMove,-mbrBtnColor\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove,-mbrBtnColor\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove,-mbrBtnColor\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove,-mbrBtnColor\"><span class=\"fa fa-flag-checkered mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a>",
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown-2.png",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background mbr-section-with-arrow\" style=\"background-image: url(@PROJECT_PATH@/assets/images/background-image-2000x1333-1.jpg);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.4; background-color: rgb(216, 3, 148);\"></div>\n\n    <div class=\"mbr-table-cell mbr-table-cell-vertical-bottom\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-10 col-lg-offset-1 text-xs-left\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"54\">DROP-DEAD EASY<br>WEBSITE<br>MAKER</h1>\n\n                    <div class=\"container-fluid padding-bottom-100\">\n                        <div class=\"row position-relative\">\n                            <div class=\"col-xs-12 col-md-5 padding-left-0 padding-right-0\">   \n\n                                \n\n                            </div>\n\n                            <div class=\"col-xs-12 col-md-5 col-md-offset-2 text-xs-center text-md-right padding-left-0 padding-right-0 buttons-wrap\">\n        \n                                <div class=\"mbr-section-btn\" style=\"text-align: right;\"><a class=\"btn btn-icon mbr-editable-button\" href=\"youtube.html\" code-editable-id=\"55\"><span class=\"fa fa-youtube-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a> <a class=\"btn btn-icon mbr-editable-button\" href=\"instagram.html\" code-editable-id=\"56\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"57\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"58\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"59\"><span class=\"fa fa-flag-checkered mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a></div>\n\n                            </div>\n                        </div>\n                    </div>\n\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/arrowdown-2.png\">\n        </a>\n    </div>\n\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": ".mbr-section-title, .mbr-section-subtitle, .btn {\n\tcolor: #fff;\n}\n.mbr-section-title {\n\tfont-weight: 700;\n}\n",
-          "_customTemplate": true
         }
       ]
     },
