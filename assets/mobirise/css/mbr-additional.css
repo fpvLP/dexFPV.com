@@ -799,6 +799,14 @@ blockquote {
 #footer2-8 P {
   color: #ffffff;
 }
+#header2-y .mbr-section-title,
+#header2-y .mbr-section-subtitle,
+#header2-y .btn {
+  color: #fff;
+}
+#header2-y .mbr-section-title {
+  font-weight: 700;
+}
 #menu-9 .hide-buttons .nav-btn {
   display: none !important;
 }
