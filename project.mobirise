@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 33,
+    "uniqCompNum": 34,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -161,8 +161,8 @@
           "title": "FPV is LIFE",
           "text": "Follow me and my drones, as we travel around the world, one race at a time!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://instagram.com/dexfpv\" data-toolbar=\"-mbrBtnMove,-mbrBtnColor\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a>  <a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://yotuube.com/dexfpv\" data-toolbar=\"-mbrBtnMove,-mbrBtnColor\"><span class=\"fa fa-youtube-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"mailto:andres@dexfpv.com\" data-toolbar=\"-mbrBtnMove,-mbrBtnColor\" target=\"_blank\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a>",
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background mbr-section-with-arrow\" style=\"background-image: url(@PROJECT_PATH@/assets/images/background.jpg);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.6; background-color: rgb(0, 0, 0);\"></div>\n\n    <div class=\"mbr-table-cell mbr-table-cell-vertical-bottom\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-10 col-lg-offset-1 text-xs-left\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"73\">FPV is LIFE</h1>\n\n                    <div class=\"container-fluid padding-bottom-100\">\n                        <div class=\"row position-relative\">\n                            <div class=\"col-xs-12 col-md-5 padding-left-0 padding-right-0\">   \n\n                                <p class=\"mbr-section-subtitle display-3 margin-bottom-0 margin-top-0 mbr-editable-content\" code-editable-id=\"74\">Follow me and my drones, as we travel around the world, one race at a time!</p>\n\n                            </div>\n\n                            <div class=\"col-xs-12 col-md-5 col-md-offset-2 text-xs-center text-md-right padding-left-0 padding-right-0 buttons-wrap\">\n        \n                                <div class=\"mbr-section-btn\" style=\"text-align: right;\"><a class=\"btn btn-icon mbr-editable-button\" href=\"https://instagram.com/dexfpv\" code-editable-id=\"75\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a>  <a class=\"btn btn-icon mbr-editable-button\" href=\"https://yotuube.com/dexfpv\" code-editable-id=\"76\"><span class=\"fa fa-youtube-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a> <a class=\"btn btn-icon mbr-editable-button\" href=\"mailto:andres@dexfpv.com\" target=\"_blank\" code-editable-id=\"77\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a></div>\n\n                            </div>\n                        </div>\n                    </div>\n\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/arrowdown.png\">\n        </a>\n    </div>\n\n</section>",
+          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background mbr-section-with-arrow\" style=\"background-image: url(@PROJECT_PATH@/assets/images/background.jpg);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.6; background-color: rgb(0, 0, 0);\"></div>\n\n    <div class=\"mbr-table-cell mbr-table-cell-vertical-bottom\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-10 col-lg-offset-1 text-xs-left\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"40\">FPV is LIFE</h1>\n\n                    <div class=\"container-fluid padding-bottom-100\">\n                        <div class=\"row position-relative\">\n                            <div class=\"col-xs-12 col-md-5 padding-left-0 padding-right-0\">   \n\n                                <p class=\"mbr-section-subtitle display-3 margin-bottom-0 margin-top-0 mbr-editable-content\" code-editable-id=\"41\">Follow me and my drones, as we travel around the world, one race at a time!</p>\n\n                            </div>\n\n                            <div class=\"col-xs-12 col-md-5 col-md-offset-2 text-xs-center text-md-right padding-left-0 padding-right-0 buttons-wrap\">\n        \n                                <div class=\"mbr-section-btn\" style=\"text-align: right;\"><a class=\"btn btn-icon mbr-editable-button\" href=\"instagram.html\" code-editable-id=\"42\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a>  <a class=\"btn btn-icon mbr-editable-button\" href=\"youtube.html\" code-editable-id=\"43\"><span class=\"fa fa-youtube-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a> <a class=\"btn btn-icon mbr-editable-button\" href=\"mailto:andres@dexfpv.com\" code-editable-id=\"44\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a></div>\n\n                            </div>\n                        </div>\n                    </div>\n\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-section-title, .mbr-section-subtitle, .btn {\n\tcolor: #fff;\n}\n.mbr-section-title {\n\tfont-weight: 700;\n}\n",
@@ -504,12 +504,11 @@
             "Theme"
           ],
           "_name": "video2",
-          "_anchor": "video2-u",
           "_params": {
+            "showText": true,
             "paddingTop": "6",
             "paddingBottom": "2",
-            "bgColor": "#ecf0f1",
-            "showText": true
+            "bgColor": "#ecf0f1"
           },
           "media": {
             "image": {
@@ -529,7 +528,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "video2-u"
         }
       ]
     },
