@@ -817,11 +817,11 @@ blockquote {
   color: #ffffff;
 }
 #menu-9 .link {
-  font-size: 1.05rem;
+  font-size: 0.9rem;
 }
 #menu-9 .dropdown-item,
 #menu-9 .nav-dropdown-sm .link {
-  font-size: 1.137rem;
+  font-size: 0.975rem;
 }
 #menu-9 .link:hover,
 #menu-9 .link:focus {

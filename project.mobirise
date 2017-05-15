@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "dexFPV.com",
-    "currentPage": "index.html",
+    "currentPage": "instagram.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -102,7 +102,7 @@
           "_anchor": "menu-2",
           "_params": {
             "bgColor": "#2c3e50",
-            "fontSize": "1.05",
+            "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -228,10 +228,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -273,7 +273,7 @@
           "_anchor": "menu-9",
           "_params": {
             "bgColor": "#2c3e50",
-            "fontSize": "1.05",
+            "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -326,11 +326,11 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_customHTML": "<section class=\"mbr-section mbr-section__container image2 mbr-after-navbar\" style=\"background-image: url(@PROJECT_PATH@/assets/images/background.jpg);\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.6; background-color: rgb(0, 0, 0);\"></div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <figure class=\"mbr-figure\">\n<div id=\"instafeed\">\n</div>\n\n{JS_CODE_0}\n{JS_CODE_1}\n                        \n    \n                        \n\n                    \n\n                </figure>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container image2 mbr-after-navbar\" style=\"background-image: url(@PROJECT_PATH@/assets/images/background.jpg);\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.6; background-color: rgb(0, 0, 0);\"></div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <figure class=\"mbr-figureFLP\">\n                  <img src=\"http://www.fpvlandingpages.com/assets/images/instagram-2000x714.png\" alt=\"Instagram\" style=\"height:10vh; width:auto;\">\n                  <div id=\"instafeed\"></div>\n\n{JS_CODE_0}\n{JS_CODE_1}\n\n                </figure>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script src=\"http://www.fpvlandingpages.com/assets/js/libs/fpvLandingPages.js\"></script>",
-            "<script type=\"text/javascript\">  \n  var userFeed = new Instafeed({\n    get: 'user',\n    userId: '3696661727',\n    clientId: '\tc5df01f5bf89427f9bbcc8ee849e9a21',\n    accessToken: '3696661727.1677ed0.95bfb6027efb481896579c0039e692c7',\n    resolution: 'standard_resolution',\n    template: '<a href=\"{{link}}\" target=\"_blank\" id=\"{{id}}\"><img src=\"{{image}}\" /></a>',\n    sortBy: 'most-recent',\n    limit: 12,\n    links: true\n  });\n  userFeed.run();\n</script>"
+            "<script type=\"text/javascript\">\n  var userFeed = new Instafeed({\n    get: 'user',\n    userId: '3696661727',\n    clientId: '\tc5df01f5bf89427f9bbcc8ee849e9a21',\n    accessToken: '3696661727.1677ed0.95bfb6027efb481896579c0039e692c7',\n    resolution: 'standard_resolution',\n    template: '<a href=\"{{link}}\" target=\"_blank\" id=\"{{id}}\"><img src=\"{{image}}\" /></a>',\n    sortBy: 'most-recent',\n    limit: 12,\n    links: true\n  });\n  userFeed.run();\n</script>"
           ],
           "_customCSS": "",
           "_customTemplate": true,
@@ -440,7 +440,7 @@
           "_anchor": "menu-c",
           "_params": {
             "bgColor": "#2c3e50",
-            "fontSize": 0.875,
+            "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -606,7 +606,7 @@
           "_anchor": "menu-f",
           "_params": {
             "bgColor": "#2c3e50",
-            "fontSize": 0.875,
+            "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -740,7 +740,7 @@
           "_anchor": "menu-13",
           "_params": {
             "bgColor": "#2c3e50",
-            "fontSize": "1.05",
+            "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
