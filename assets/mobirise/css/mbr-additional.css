@@ -798,6 +798,7 @@ blockquote {
 }
 #footer2-8 P {
   color: #ffffff;
+  font-size: 16px;
 }
 #menu-9 .hide-buttons .nav-btn {
   display: none !important;
@@ -871,6 +872,7 @@ blockquote {
 }
 #footer2-b P {
   color: #ffffff;
+  font-size: 16px;
 }
 #menu-c .hide-buttons .nav-btn {
   display: none !important;
@@ -890,11 +892,11 @@ blockquote {
   color: #ffffff;
 }
 #menu-c .link {
-  font-size: 0.875rem;
+  font-size: 0.9rem;
 }
 #menu-c .dropdown-item,
 #menu-c .nav-dropdown-sm .link {
-  font-size: 0.948rem;
+  font-size: 0.975rem;
 }
 #menu-c .link:hover,
 #menu-c .link:focus {
@@ -944,6 +946,7 @@ blockquote {
 }
 #footer2-e P {
   color: #ffffff;
+  font-size: 16px;
 }
 #menu-f .hide-buttons .nav-btn {
   display: none !important;
@@ -963,11 +966,11 @@ blockquote {
   color: #ffffff;
 }
 #menu-f .link {
-  font-size: 0.875rem;
+  font-size: 0.9rem;
 }
 #menu-f .dropdown-item,
 #menu-f .nav-dropdown-sm .link {
-  font-size: 0.948rem;
+  font-size: 0.975rem;
 }
 #menu-f .link:hover,
 #menu-f .link:focus {
@@ -1017,6 +1020,7 @@ blockquote {
 }
 #footer2-h P {
   color: #ffffff;
+  font-size: 16px;
 }
 #menu-13 .hide-buttons .nav-btn {
   display: none !important;
@@ -1036,11 +1040,11 @@ blockquote {
   color: #ffffff;
 }
 #menu-13 .link {
-  font-size: 1.05rem;
+  font-size: 0.9rem;
 }
 #menu-13 .dropdown-item,
 #menu-13 .nav-dropdown-sm .link {
-  font-size: 1.137rem;
+  font-size: 0.975rem;
 }
 #menu-13 .link:hover,
 #menu-13 .link:focus {
@@ -1090,4 +1094,5 @@ blockquote {
 }
 #footer2-15 P {
   color: #ffffff;
+  font-size: 16px;
 }
