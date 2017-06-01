@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "dexFPV.com",
-    "currentPage": "live.html",
+    "currentPage": "picture.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -207,7 +207,7 @@
       "settings": {
         "title": "dexFPV Insta Widget",
         "meta_descr": "",
-        "header_custom": "<link rel=\"stylesheet\" type=\"text/css\" href=\"http://www.fpvlandingpages.com/assets/css/libs/fpvLandingPages.css\">\n<script\n  src=\"https://code.jquery.com/jquery-3.2.1.js\"\n  integrity=\"sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=\"\n  crossorigin=\"anonymous\"></script>\n<meta property=\"og:image\" content=\"http://hawkxfpv.com/og-image.jpg\">\n",
+        "header_custom": "<link rel=\"stylesheet\" type=\"text/css\" href=\"http://www.fpvlandingpages.com/assets/css/libs/fpvLandingPages.css\">\n<script\n  src=\"https://code.jquery.com/jquery-3.2.1.js\"\n  integrity=\"sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=\"\n  crossorigin=\"anonymous\"></script>\n<meta property=\"og:image\" content=\"http://dexfpv.com/og-image.jpg\">",
         "footer_custom": "\t<a href=\"http://fpvlandingpages.com\" class=\"logo\" target=\"_blank\">\n\t <img class=\"logo\" src=\"http://www.fpvlandingpages.com/assets/images/logo-white.svg\" alt=\"\"> \n\t</a>",
         "html_before": "",
         "order": 2
@@ -375,7 +375,7 @@
       "settings": {
         "title": "dexFPV YouTube Widget",
         "meta_descr": "",
-        "header_custom": "<link rel=\"stylesheet\" type=\"text/css\" href=\"http://www.fpvlandingpages.com/assets/css/libs/fpvLandingPages.css\">\n<script\n  src=\"https://code.jquery.com/jquery-3.2.1.js\"\n  integrity=\"sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=\"\n  crossorigin=\"anonymous\"></script>\n<meta property=\"og:image\" content=\"http://hawkxfpv.com/og-image.jpg\">\n",
+        "header_custom": "<link rel=\"stylesheet\" type=\"text/css\" href=\"http://www.fpvlandingpages.com/assets/css/libs/fpvLandingPages.css\">\n<script\n  src=\"https://code.jquery.com/jquery-3.2.1.js\"\n  integrity=\"sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=\"\n  crossorigin=\"anonymous\"></script>\n<meta property=\"og:image\" content=\"http://dexfpv.com/og-image.jpg\">",
         "footer_custom": "<a href=\"http://fpvlandingpages.com\" class=\"logo\" target=\"_blank\">\n\t <img class=\"logo\" src=\"http://www.fpvlandingpages.com/assets/images/logo-white.svg\" alt=\"\"> \n\t</a>",
         "html_before": "",
         "order": 4
@@ -542,7 +542,7 @@
       "settings": {
         "title": "dexFPV Picture Carousel",
         "meta_descr": "",
-        "header_custom": "<link rel=\"stylesheet\" type=\"text/css\" href=\"http://www.fpvlandingpages.com/assets/css/libs/fpvLandingPages.css\">\n<script\n  src=\"https://code.jquery.com/jquery-3.2.1.js\"\n  integrity=\"sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=\"\n  crossorigin=\"anonymous\"></script>\n<meta property=\"og:image\" content=\"http://hawkxfpv.com/og-image.jpg\">\n",
+        "header_custom": "<link rel=\"stylesheet\" type=\"text/css\" href=\"http://www.fpvlandingpages.com/assets/css/libs/fpvLandingPages.css\">\n<script\n  src=\"https://code.jquery.com/jquery-3.2.1.js\"\n  integrity=\"sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=\"\n  crossorigin=\"anonymous\"></script>\n<meta property=\"og:image\" content=\"http://dexfpv.com/og-image.jpg\">",
         "footer_custom": "\t<a href=\"http://fpvlandingpages.com\" class=\"logo\" target=\"_blank\">\n\t <img class=\"logo\" src=\"http://www.fpvlandingpages.com/assets/images/logo-white.svg\" alt=\"\"> \n\t</a>",
         "html_before": "",
         "order": 5
@@ -845,7 +845,7 @@
       "settings": {
         "title": "IDRA Racing Series",
         "meta_descr": "I will be STREAMING LIVE from DOVER INTERNATIONAL SPEEDWAY as my team and I race against some of the best DRONE Racing Pilots in the WORLD!\nStay tuned! June 2-4 #idra #capitolQuads #dexFPV #monsterMile #fpvLandingPages",
-        "header_custom": "<link rel=\"stylesheet\" type=\"text/css\" href=\"http://www.fpvlandingpages.com/assets/css/libs/fpvLandingPages.css\">\n<script\n  src=\"https://code.jquery.com/jquery-3.2.1.js\"\n  integrity=\"sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=\"\n  crossorigin=\"anonymous\"></script>",
+        "header_custom": "<link rel=\"stylesheet\" type=\"text/css\" href=\"http://www.fpvlandingpages.com/assets/css/libs/fpvLandingPages.css\">\n<script\n  src=\"https://code.jquery.com/jquery-3.2.1.js\"\n  integrity=\"sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=\"\n  crossorigin=\"anonymous\"></script>\n<meta property=\"og:image\" content=\"http://dexfpv.com/og-image.jpg\">",
         "footer_custom": "<a href=\"http://fpvlandingpages.com\" class=\"logo\" target=\"_blank\">\n\t <img class=\"logo\" src=\"http://www.fpvlandingpages.com/assets/images/logo-white.svg\" alt=\"\"> \n\t</a>",
         "html_before": "",
         "order": 4
@@ -1012,7 +1012,7 @@
       "settings": {
         "title": "IDRA Racing Series",
         "meta_descr": "I will be STREAMING LIVE from DOVER INTERNATIONAL SPEEDWAY as my team and I race against some of the best DRONE Racing Pilots in the WORLD!\nStay tuned! June 2-4 #idra #capitolQuads #dexFPV #monsterMile #fpvLandingPages",
-        "header_custom": "<link rel=\"stylesheet\" type=\"text/css\" href=\"http://www.fpvlandingpages.com/assets/css/libs/fpvLandingPages.css\">\n<script\n  src=\"https://code.jquery.com/jquery-3.2.1.js\"\n  integrity=\"sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=\"\n  crossorigin=\"anonymous\"></script>\n<meta property=\"og:image\" content=\"http://hawkxfpv.com/og-image.jpg\">\n",
+        "header_custom": "<link rel=\"stylesheet\" type=\"text/css\" href=\"http://www.fpvlandingpages.com/assets/css/libs/fpvLandingPages.css\">\n<script\n  src=\"https://code.jquery.com/jquery-3.2.1.js\"\n  integrity=\"sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=\"\n  crossorigin=\"anonymous\"></script>\n<meta property=\"og:image\" content=\"http://dexfpv.com/og-image.jpg\">",
         "footer_custom": "<a href=\"http://fpvlandingpages.com\" class=\"logo\" target=\"_blank\">\n\t <img class=\"logo\" src=\"http://www.fpvlandingpages.com/assets/images/logo-white.svg\" alt=\"\"> \n\t</a>",
         "html_before": "",
         "order": 4
