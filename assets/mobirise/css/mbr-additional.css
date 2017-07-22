@@ -1244,3 +1244,113 @@ blockquote {
   color: #ffffff;
   font-size: 16px;
 }
+
+#menu-1c .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1c .navbar-caption {
+  color: #ffffff;
+}
+#menu-1c .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1c .close-icon::before,
+#menu-1c .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-1c .link,
+#menu-1c .dropdown-item {
+  color: #ffffff;
+}
+#menu-1c .link {
+  font-size: 0.9rem;
+}
+#menu-1c .dropdown-item,
+#menu-1c .nav-dropdown-sm .link {
+  font-size: 0.975rem;
+}
+#menu-1c .link:hover,
+#menu-1c .link:focus {
+  color: #c0392b;
+}
+#menu-1c .dropdown-item:hover::before,
+#menu-1c .dropdown-item:focus::before {
+  background: #c0392b;
+}
+#menu-1c .dropdown-item:hover,
+#menu-1c .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-1c .link[aria-expanded="true"],
+#menu-1c .dropdown-menu {
+  background: #1a242f;
+}
+#menu-1c .nav-dropdown-sm .link:focus,
+#menu-1c .nav-dropdown-sm .link:hover,
+#menu-1c .nav-dropdown-sm .dropdown-item:focus,
+#menu-1c .nav-dropdown-sm .dropdown-item:hover {
+  background: #273646!important;
+}
+#menu-1c .navbar,
+#menu-1c .nav-dropdown-sm,
+#menu-1c .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1c .nav-dropdown-sm .dropdown-menu {
+  background: #2c3e50;
+}
+#menu-1c .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-1c .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1c .bg-color.transparent.opened .link:hover,
+#menu-1c .bg-color.transparent.opened .link:focus {
+  color: #c0392b;
+}
+#menu-1c .link[aria-expanded="true"],
+#menu-1c .dropdown-item[aria-expanded="true"] {
+  color: #c0392b!important;
+}
+#footer2-1d .mbr-section-text {
+  color: #fff;
+}
+#footer2-1d P {
+  color: #ffffff;
+  font-size: 16px;
+}
+#header9-1e .elements-content {
+  padding-bottom: 50px;
+}
+#header9-1e .mbr-section-subtitle {
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+#header9-1e .mbr-section-title,
+#header9-1e .tab-pane {
+  color: #000;
+}
+#features5-1g .lead {
+  color: #9fa3a7;
+}
+#features5-1g .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#features5-1g .card-number {
+  left: -20px;
+}
+#features5-1g SPAN {
+  font-family: 'Arvo', serif;
+}
+#features5-1g .mbr-section-text {
+  color: #c0392b;
+}
+#features1-1f .mbr-section-title {
+  font-weight: 700;
+}
+#features1-1f .mbr-section-subtitle {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #e74c3c;
+}
